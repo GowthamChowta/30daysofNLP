@@ -9,7 +9,7 @@ Notebooks description:
 2. Text preprocessing.ipynb -- Text cleaning - Preprocessing - Vectorization
 3. Performance_metrics.ipynb -- Why kappa score is suitable?, Implementing Kappa score manually in python
 4. Feature Extraction -- Advanced count feature extraction from the text.
-5. Modelling 
+5. Modelling <br>
 Everything explained in detail in this blog:
 https://gautigadu091.medium.com/an-end-to-end-case-study-on-crowd-flower-search-results-relevance-7229243f4d12
 
