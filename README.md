@@ -12,4 +12,5 @@ Notebooks description:
 5. Modelling <br>
 Everything explained in detail in this blog:
 https://gautigadu091.medium.com/an-end-to-end-case-study-on-crowd-flower-search-results-relevance-7229243f4d12
+All the preprocessed data can be downloaded from this <a href = "https://drive.google.com/drive/folders/1_rwnoFh9JrIdecVBQZZvQSicBTV53_QW?usp=sharing" link>.
 
